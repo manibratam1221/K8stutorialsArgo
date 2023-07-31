@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: manibratam123/nginx:v01.0
+        image: manibratam123/nginx:v01.2
         ports:
         - containerPort: 80
